@@ -13,7 +13,4 @@ spec:
     - source:
         principals: 
         - cluster.local/ns/test/sa/aa
-        - cluster.local/ns/test/sa/aa
-        - cluster.local/ns/test/sa/aa
-        - cluster.local/ns/test/sa/aa
         
