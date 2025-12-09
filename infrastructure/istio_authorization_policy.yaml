@@ -15,4 +15,5 @@ spec:
         - cluster.local/ns/test/sa/aa
         - cluster.local/ns/test/sa/aa
         - cluster.local/ns/test/sa/aa
+        - cluster.local/ns/test/sa/aa
         
